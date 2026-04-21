@@ -8,4 +8,7 @@ This is just me using resources to learn java and upload the practise problems.
 ## Day 02
 - Finished chapter 1 of HFJ. Excellent book, understood a lot about history of java, its use, nature, the JVM, etc. Finished exercises as well.
 
+## Day 03
+- Finished chapter 2 of HFJ. Learned about differences between OOP and Procedural paradigms, and classes and objects. Also started PostgreSQL learning, couldn't even manage to set it up in void linux...
+
 
