@@ -20,4 +20,10 @@ LOSS
 
 ## Day 06
 - Time: 2026, April 24th, 22.25 HOURS
-- Finished chapter 4 of HFJ. Learned about encapsulation. Read through half of chapter 5 too, just need to implement the battleship game. Yesterday was a bust. PostgreSQL put on pause, will be focusing next 2 months or so, on Java, DSA, Design patterns and projects involving various Java libraries to get to know the language and its application. No notes taken for chapter 4, notes are redundant, directing all time to practise with actual code.	
+- Finished chapter 4 of HFJ. Learned about encapsulation. Read through half of chapter 5 too, just need to implement the battleship game. Yesterday was a bust. PostgreSQL put on pause, will be focusing next 2 months or so, on Java, DSA, Design patterns and projects involving various Java libraries to get to know the language and its application. No notes taken for chapter 4, notes are redundant, directing all time to practise with actual code.
+
+## Day 07
+- Time Period: April 25th - 28th, 2026, 23.03 HOURS
+- Haven't read through chapter 5 of HFJ yet, but it did want me to make a 1 dimensional battleship style game, so I did, with better user validation and an additional tracking feature for spent arrays. Lack of sleep seems to mess with my ability to solve problems. Devising a rough algorithm before hand helps tremendously. ArrayLists are great, but super memory hungry. Overall it took 2 attempts to get the game working.
+
+
